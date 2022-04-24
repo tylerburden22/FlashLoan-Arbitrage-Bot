@@ -2,6 +2,9 @@
 What are Flash Loans?
 Flash Loans enable crypto users to take out near-instant crypto loans without having to provide collateral in return. The process is entirely decentralized and does not require any kind of KYC documentation. Even for beginners, the process takes a few minutes at most.
 
+![alt text](https://raw.githubusercontent.com/tylerburden22/FlashLoanAttackTool/main/FLIns.png)
+
+
 By requesting a flash loan, users can take any sum of money possible. Even millions you might ask? That is entirely possible.
 
 How Repaying a Flash Loan Works
@@ -12,6 +15,10 @@ Not repaying a loan is out of the question, not only in real life, but in DeFi a
 The action of reverting a flash loan is possible with the help of EIP-140, an Ethereum Improvement Proposal. The EIP in question enables developers to call a revert function, which instructs the network to revert to a previous state.
 
 Flash Loans Use Cases
+
+![alt text](https://raw.githubusercontent.com/tylerburden22/FlashLoanAttackTool/main/fluc.png)
+
+
 
 Although flash loans gained popularity in 2020 with the help of Aave and dYdX, the concept dates back to 2018 with Marble Protocol’s first flash loan design. Marble dubbed its creation ‘flash lending’ and called the entire protocol a smart contract bank.
 
